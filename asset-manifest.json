@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Smart-Image-Checker/static/css/main.de55e7df.chunk.css",
+    "main.js": "/Smart-Image-Checker/static/js/main.412273c7.chunk.js",
+    "main.js.map": "/Smart-Image-Checker/static/js/main.412273c7.chunk.js.map",
+    "runtime-main.js": "/Smart-Image-Checker/static/js/runtime-main.9ffef61c.js",
+    "runtime-main.js.map": "/Smart-Image-Checker/static/js/runtime-main.9ffef61c.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Smart-Image-Checker/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5aeb18da.chunk.js": "/Smart-Image-Checker/static/js/2.5aeb18da.chunk.js",
+    "static/js/2.5aeb18da.chunk.js.map": "/Smart-Image-Checker/static/js/2.5aeb18da.chunk.js.map",
+    "static/js/3.25ddcd19.chunk.js": "/Smart-Image-Checker/static/js/3.25ddcd19.chunk.js",
+    "static/js/3.25ddcd19.chunk.js.map": "/Smart-Image-Checker/static/js/3.25ddcd19.chunk.js.map",
+    "index.html": "/Smart-Image-Checker/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Smart-Image-Checker/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.de55e7df.chunk.css.map": "/Smart-Image-Checker/static/css/main.de55e7df.chunk.css.map",
+    "static/js/2.5aeb18da.chunk.js.LICENSE.txt": "/Smart-Image-Checker/static/js/2.5aeb18da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ffef61c.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5aeb18da.chunk.js",
+    "static/css/main.de55e7df.chunk.css",
+    "static/js/main.412273c7.chunk.js"
+  ]
+}
